@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=300&section=header&text=NE%20ZNAES%20STO%20DA%20PRAVIS%20KOGA%20NEMAS%20KOSA&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Resenieto%20e%20vo%20vasite%20race&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=300&section=header&text=NE%20ZNAES%20STO%20DA%20PRAVIS%20KOGA%20NEMAS%20KOSA&fontSize=28&fontColor=gradient&animation=fadeIn&fontAlignY=40&desc=Resenieto%20e%20vo%20vasite%20race&descAlignY=58&descSize=16"/>
 
 <br>
 
